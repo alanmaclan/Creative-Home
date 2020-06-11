@@ -6,7 +6,6 @@
   
    
 <img src="print.png">
-height="150px"
-left="150px"
+
 
 
